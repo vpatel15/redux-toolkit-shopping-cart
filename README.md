@@ -29,6 +29,7 @@ To resolve this issue:
 ## Installation errors
 node-sass is no longer supported ("node-sass": "^8.0.0"). Using node 21+
 Use sass instead
+Latest changes in branch 02_01
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)

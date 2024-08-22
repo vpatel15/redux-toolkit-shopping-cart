@@ -29,7 +29,10 @@ To resolve this issue:
 ## Installation errors
 node-sass is no longer supported ("node-sass": "^8.0.0"). Using node 21+
 Use sass instead
-Latest changes in branch 02_01
+To serve local json data use the below:
+npx json-server './src/data/productList.json' --port 5001
+
+Note: Latest changes in branch 02_01
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
